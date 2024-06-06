@@ -15,11 +15,19 @@ Menunjukkan pembagian pendapatan, biaya produksi, laba kotor, biaya operasional,
 
 ![Biaya Produksi](https://github.com/PanduWidhianto/DataAnalisisPT-Pandu/assets/152130454/fb10c780-32f5-4e9b-a1aa-16578c45a2b6)
 
-# Grafik Pembelian
+                                                 **# Grafik Pembelian**
 
-# Grafik Total Biaya Pembelian
+# Grafik Total Biaya Pembelian 
 Grafik ini menampilkan total biaya pembelian untuk setiap produk.
 
 ![Pembelian](https://github.com/PanduWidhianto/DataAnalisisPT-Pandu/assets/152130454/938cf737-704e-42ce-ad1c-61da1fb6a79b)
+
+# Grafik Harga Pembelian Satuan 
+Grafik ini menampilkan harga pembelian satuan untuk setiap produk.
+
 ![Pembelian 3](https://github.com/PanduWidhianto/DataAnalisisPT-Pandu/assets/152130454/aa56d820-164f-4b1c-a2ac-094b5cc54eb6)
+
+# Grafik Jumlah Dibeli 
+Grafik ini menunjukkan jumlah unit yang dibeli untuk setiap produk.
+
 ![Pembelian 2](https://github.com/PanduWidhianto/DataAnalisisPT-Pandu/assets/152130454/b7bf24be-60df-4081-a9bd-e0fd3f100343)
